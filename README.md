@@ -1,6 +1,10 @@
 # Raspberry-Pi-Morse-Code
 
-This is a project using the Raspberry Pi and an LED to display morse code. 
+This is a project using the Raspberry Pi and an LED to display morse code.
+
+The Raspberry Pi 3 Model B was used and the operating system used was Raspbian. 
+
+A circuit was made on the breadboard using GPIO port 8, the LED, a resistor, GPIO port 6, and two M/F jumper wires. 
 
 The morse code conventions used are from http://morsecode.scphillips.com/morse2.html
 
